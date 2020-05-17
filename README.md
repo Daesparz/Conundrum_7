@@ -1,4 +1,4 @@
-# Prediction of work status for people polled in the UK 2011
+# Prediction of work status for people polled in UK 2011
 
 ### Conundrum 7
 
