@@ -1,6 +1,6 @@
 # Prediction of work status for people polled in UK 2011
 
-### Conundrum 7
+### Conundrum 7 [Dataiku]
 
 Data about over five hundred thousand people polled in the UK 2011 census. It includes each persons sex, age, marital status and other points. In this challenge, we use all of this information to predict if every person is currently in work - either Employed or Self-Employed. 
 
