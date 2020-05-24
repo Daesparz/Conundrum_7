@@ -2,7 +2,11 @@
 
 ### Conundrum 7
 
-Data about over five hundred thousand people polled in the UK 2011 census. It includes each persons sex, age, marital status and other points. In this challenge, we use all of this information to predict if every person is currently in work - either Employed or Self-Employed.
+Data about over five hundred thousand people polled in the UK 2011 census. It includes each persons sex, age, marital status and other points. In this challenge, we use all of this information to predict if every person is currently in work - either Employed or Self-Employed. 
+
+An exhaustive EDA analysis is elaboread in [Exploratory Data Analysis](`exploratory_data_analysis.ipynb`)., where we develop a story-telling around the importance of the Census 2011 in the UK and their results by regions, social status, industry, health conditions and religion, just to mention some of the main features that help us to figure out the huge picture about the UK population.
+
+The supervised machine learning problem is solved using Categorical Naive Bayes and Feature Selection techniques to improve the accuracy and avoid overfitting the model. 
 
 
 ### Variable List
